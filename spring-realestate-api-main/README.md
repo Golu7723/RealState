@@ -108,10 +108,6 @@ You should have the below softawares installed in your pc :
 1. Get a free API Key at [https://github.com/settings/tokens](https://github.com/settings/tokens)
 2. Clone the repo
 
-   ```sh
-   git clone https://github.com/kudzaiprichard/spring-realestate-api
-   ```
-
 3. Open project in IDE or text editor
 4. let maven download all necessary dependency for the project to run
 
@@ -170,7 +166,7 @@ Don't forget to give the project a star! Thanks again!
  3. **Create a pull request** <br>
  It can't get better than this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
 
- > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,27 +181,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](www.linkedin.com/in/kudzai-prichard) - <kudzaiprichard@gmail.com>
-
-Project Link: [https://github.com/kudzaiprichard/spring-realestate-api](https://github.com/kudzaiprichard/spring-realestate-api)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-list of resources I found helpful and would like to give credit to.
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [Restful Api Explained](https://aws.amazon.com/what-is/restful-api/)
-* [Jason Web Tokens](https://jwt.io/)
-* [Spring Boot docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-* [GitHub Pages](https://pages.github.com) 
-* [MySql docs](https://dev.mysql.com/doc/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
