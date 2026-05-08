@@ -1,0 +1,22 @@
+services:
+  mysql_realestate:
+    image: mysql:8.0
+    container_name: mysql_realestate
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: realestate
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_ROOT_HOST: "%"
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_realestate_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-uroot"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  mysql_realestate_data:
+

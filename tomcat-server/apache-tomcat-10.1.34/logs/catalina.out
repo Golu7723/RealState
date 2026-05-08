@@ -1,0 +1,272 @@
+08-May-2026 13:37:16.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.34
+08-May-2026 13:37:16.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 16:01:16 UTC
+08-May-2026 13:37:16.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.34.0
+08-May-2026 13:37:16.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-May-2026 13:37:16.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.17.0-22-generic
+08-May-2026 13:37:16.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-May-2026 13:37:16.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+08-May-2026 13:37:16.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-Ubuntu-124.04.1
+08-May-2026 13:37:16.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+08-May-2026 13:37:16.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:37:16.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:37:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/conf/logging.properties
+08-May-2026 13:37:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-May-2026 13:37:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-May-2026 13:37:16.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-May-2026 13:37:16.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-May-2026 13:37:16.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-May-2026 13:37:16.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-May-2026 13:37:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-May-2026 13:37:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-May-2026 13:37:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-May-2026 13:37:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:37:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:37:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/temp
+08-May-2026 13:37:16.280 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+08-May-2026 13:37:16.811 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-May-2026 13:37:16.886 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1041] milliseconds
+08-May-2026 13:37:17.001 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-May-2026 13:37:17.003 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.34]
+08-May-2026 13:37:17.037 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war]
+08-May-2026 13:37:22.144 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2026-05-08T13:37:23.491+05:30  INFO 64000 --- [           main] c.i.r.RealestateBackendApplication       : Starting RealestateBackendApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 64000 (/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT/WEB-INF/classes started by gajendra-singh-bislawat in /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/bin)
+2026-05-08T13:37:23.507+05:30  INFO 64000 --- [           main] c.i.r.RealestateBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-05-08T13:37:27.069+05:30  INFO 64000 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-08T13:37:27.586+05:30  INFO 64000 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 483 ms. Found 26 JPA repository interfaces.
+2026-05-08T13:37:28.453+05:30  INFO 64000 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4836 ms
+2026-05-08T13:37:29.461+05:30  INFO 64000 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-08T13:37:29.587+05:30  INFO 64000 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.6.Final
+2026-05-08T13:37:29.590+05:30  INFO 64000 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2026-05-08T13:37:29.941+05:30  INFO 64000 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:37:30.280+05:30  INFO 64000 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-08T13:37:30.336+05:30  INFO 64000 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-05-08T13:37:30.925+05:30  INFO 64000 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@33d55c86
+2026-05-08T13:37:30.928+05:30  INFO 64000 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-05-08T13:37:31.111+05:30  WARN 64000 --- [           main] org.hibernate.orm.deprecation            : HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2026-05-08T13:37:31.368+05:30  WARN 64000 --- [           main] o.h.b.model.internal.AnnotationBinder    : HHH000503: A class should not be annotated with both @Inheritance and @MappedSuperclass. @Inheritance will be ignored for: com.intela.realestatebackend.models.Image.
+2026-05-08T13:37:32.309+05:30  INFO 64000 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:37:34.025+05:30  INFO 64000 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2026-05-08T13:37:37.164+05:30  INFO 64000 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-08T13:37:37.466+05:30  INFO 64000 --- [           main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-05-08T13:37:40.237+05:30  WARN 64000 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-08T13:37:40.602+05:30  INFO 64000 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5e8203ab, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@32ccceb8, org.springframework.security.web.context.SecurityContextHolderFilter@b507054, org.springframework.security.web.header.HeaderWriterFilter@44bb0a25, org.springframework.web.filter.CorsFilter@2c82d1b4, org.springframework.security.web.authentication.logout.LogoutFilter@2f142507, com.intela.realestatebackend.config.JwtAuthFilter@20b011ba, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@28dbe793, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@10620908, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2134d206, org.springframework.security.web.session.SessionManagementFilter@10a57032, org.springframework.security.web.access.ExceptionTranslationFilter@69b6496e, org.springframework.security.web.access.intercept.AuthorizationFilter@72c3dc27]
+2026-05-08T13:37:42.489+05:30  INFO 64000 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-05-08T13:37:42.639+05:30  INFO 64000 --- [           main] c.i.r.RealestateBackendApplication       : Started RealestateBackendApplication in 20.112 seconds (process running for 27.348)
+Admin token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzcxYmM5ZS0yMDM0LTQ4MDgtYTAzZS0yZTUwNDlmOTJkMzAiLCJpYXQiOjE3NzgyMjc2NjMsImV4cCI6MTc3ODMxNDA2M30.6kQKfq_rjNL-uPUWBvcws24qdRx1ajfpYpUb1iP7HwQ
+Admin refresh token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNzcxYmM5ZS0yMDM0LTQ4MDgtYTAzZS0yZTUwNDlmOTJkMzAiLCJpYXQiOjE3NzgyMjc2NjMsImV4cCI6MTc3ODgzMjQ2M30.E5YvHFN4WB49Bk_ZePWHzgdNNOwlh9wIixJ9VF12J6w
+Customer token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNmU5MDAxMi05ZjBlLTRkY2MtYjhkZC1mOWE3NDRjMTIyZmQiLCJpYXQiOjE3NzgyMjc2NjMsImV4cCI6MTc3ODMxNDA2M30.Mxxn05MtRUkRRfqCrUs0mDweRTHKLbAzN1W2XGfRorI
+Customer refresh token: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNmU5MDAxMi05ZjBlLTRkY2MtYjhkZC1mOWE3NDRjMTIyZmQiLCJpYXQiOjE3NzgyMjc2NjMsImV4cCI6MTc3ODgzMjQ2M30.mQnxiUCxV5jxuAEI6qqKpVXGwubC2_EJnJx9spFDiQ0
+08-May-2026 13:37:43.846 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war] has finished in [26,805] ms
+08-May-2026 13:37:43.849 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager]
+08-May-2026 13:37:43.902 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager] has finished in [53] ms
+08-May-2026 13:37:43.903 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs]
+08-May-2026 13:37:43.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs] has finished in [26] ms
+08-May-2026 13:37:43.930 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples]
+08-May-2026 13:37:44.156 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples] has finished in [226] ms
+08-May-2026 13:37:44.156 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager]
+08-May-2026 13:37:44.189 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager] has finished in [32] ms
+08-May-2026 13:37:44.190 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT]
+08-May-2026 13:37:44.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT] has finished in [32] ms
+08-May-2026 13:37:44.230 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-May-2026 13:37:44.285 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [27397] milliseconds
+08-May-2026 13:38:02.017 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-May-2026 13:38:02.018 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-May-2026 13:38:02.019 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-May-2026 13:38:02.073 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [realestate-backend-0.0.1-SNAPSHOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.18/java.lang.Object.wait(Native Method)
+ java.base@17.0.18/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.18/java.lang.Thread.run(Thread.java:840)
+08-May-2026 13:38:02.074 SEVERE [main] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [realestate-backend-0.0.1-SNAPSHOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@da066fb]) and a value of type [org.springframework.security.core.context.ThreadLocalSecurityContextHolderStrategy$$Lambda$1986/0x00007e2460c58410] (value [org.springframework.security.core.context.ThreadLocalSecurityContextHolderStrategy$$Lambda$1986/0x00007e2460c58410@4995e820]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+08-May-2026 13:38:02.082 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-May-2026 13:38:02.095 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-May-2026 13:38:07.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.34
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 16:01:16 UTC
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.34.0
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.17.0-22-generic
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-May-2026 13:38:07.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+08-May-2026 13:38:07.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-Ubuntu-124.04.1
+08-May-2026 13:38:07.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+08-May-2026 13:38:07.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:38:07.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:38:07.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/conf/logging.properties
+08-May-2026 13:38:07.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-May-2026 13:38:07.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-May-2026 13:38:07.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-May-2026 13:38:07.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-May-2026 13:38:07.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-May-2026 13:38:07.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-May-2026 13:38:07.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-May-2026 13:38:07.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-May-2026 13:38:07.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-May-2026 13:38:07.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:38:07.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:38:07.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/temp
+08-May-2026 13:38:07.612 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+08-May-2026 13:38:08.026 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:38:08.104 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [892] milliseconds
+08-May-2026 13:38:08.222 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-May-2026 13:38:08.222 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.34]
+08-May-2026 13:38:08.257 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war]
+08-May-2026 13:38:13.059 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2026-05-08T13:38:14.725+05:30  INFO 64391 --- [           main] c.i.r.RealestateBackendApplication       : Starting RealestateBackendApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 64391 (/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT/WEB-INF/classes started by gajendra-singh-bislawat in /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/bin)
+2026-05-08T13:38:14.731+05:30  INFO 64391 --- [           main] c.i.r.RealestateBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-05-08T13:38:19.317+05:30  INFO 64391 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-08T13:38:20.095+05:30  INFO 64391 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 729 ms. Found 26 JPA repository interfaces.
+2026-05-08T13:38:21.522+05:30  INFO 64391 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6683 ms
+2026-05-08T13:38:22.939+05:30  INFO 64391 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-08T13:38:23.067+05:30  INFO 64391 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.6.Final
+2026-05-08T13:38:23.070+05:30  INFO 64391 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2026-05-08T13:38:23.503+05:30  INFO 64391 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:38:23.939+05:30  INFO 64391 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-08T13:38:23.997+05:30  INFO 64391 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-05-08T13:38:24.673+05:30  INFO 64391 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@113ea6f0
+2026-05-08T13:38:24.683+05:30  INFO 64391 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-05-08T13:38:24.826+05:30  WARN 64391 --- [           main] org.hibernate.orm.deprecation            : HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2026-05-08T13:38:25.074+05:30  WARN 64391 --- [           main] o.h.b.model.internal.AnnotationBinder    : HHH000503: A class should not be annotated with both @Inheritance and @MappedSuperclass. @Inheritance will be ignored for: com.intela.realestatebackend.models.Image.
+2026-05-08T13:38:26.203+05:30  INFO 64391 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:38:29.676+05:30  INFO 64391 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2026-05-08T13:38:31.246+05:30  INFO 64391 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-08T13:38:32.149+05:30  INFO 64391 --- [           main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+Customer users already exist, skipping seed.
+Dealer users already exist, skipping seed.
+Admin users already exist, skipping seed.
+2026-05-08T13:38:40.485+05:30  WARN 64391 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-08T13:38:40.897+05:30  INFO 64391 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1805656e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3d3d9165, org.springframework.security.web.context.SecurityContextHolderFilter@2562505, org.springframework.security.web.header.HeaderWriterFilter@45fa7c5, org.springframework.web.filter.CorsFilter@2c45779a, org.springframework.security.web.authentication.logout.LogoutFilter@5152c930, com.intela.realestatebackend.config.JwtAuthFilter@5385603c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@549c98ca, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4a70049c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5e4cecdb, org.springframework.security.web.session.SessionManagementFilter@6868766c, org.springframework.security.web.access.ExceptionTranslationFilter@2a87162d, org.springframework.security.web.access.intercept.AuthorizationFilter@568e6261]
+2026-05-08T13:38:42.939+05:30  INFO 64391 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-05-08T13:38:43.223+05:30  INFO 64391 --- [           main] c.i.r.RealestateBackendApplication       : Started RealestateBackendApplication in 29.64 seconds (process running for 36.148)
+Properties already exist, skipping seed.
+Admin user already exists, skipping seed.
+Customer user already exists, skipping seed.
+08-May-2026 13:38:43.380 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war] has finished in [35,124] ms
+08-May-2026 13:38:43.381 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager]
+08-May-2026 13:38:43.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager] has finished in [20] ms
+08-May-2026 13:38:43.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs]
+08-May-2026 13:38:43.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs] has finished in [15] ms
+08-May-2026 13:38:43.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples]
+08-May-2026 13:38:43.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples] has finished in [95] ms
+08-May-2026 13:38:43.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager]
+08-May-2026 13:38:43.529 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager] has finished in [17] ms
+08-May-2026 13:38:43.529 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT]
+08-May-2026 13:38:43.546 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT] has finished in [17] ms
+08-May-2026 13:38:43.549 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:38:43.556 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [35450] milliseconds
+2026-05-08T13:38:46.317+05:30  INFO 64391 --- [nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-05-08T13:38:46.325+05:30  INFO 64391 --- [nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2026-05-08T13:39:07.998+05:30  WARN 64391 --- [nio-8090-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+08-May-2026 13:54:49.363 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-May-2026 13:54:49.382 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:54:49.397 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-May-2026 13:54:50.205 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [realestate-backend-0.0.1-SNAPSHOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.18/java.lang.Object.wait(Native Method)
+ java.base@17.0.18/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.18/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.18/java.lang.Thread.run(Thread.java:840)
+08-May-2026 13:54:50.226 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:54:50.234 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:56:16.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.34
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 16:01:16 UTC
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.34.0
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.17.0-22-generic
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-Ubuntu-124.04.1
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:56:16.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/conf/logging.properties
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-May-2026 13:56:16.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-May-2026 13:56:16.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-May-2026 13:56:16.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-May-2026 13:56:16.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:56:16.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34
+08-May-2026 13:56:16.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/temp
+08-May-2026 13:56:16.498 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+08-May-2026 13:56:16.641 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:56:16.661 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [275] milliseconds
+08-May-2026 13:56:16.686 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-May-2026 13:56:16.687 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.34]
+08-May-2026 13:56:16.698 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war]
+08-May-2026 13:56:18.706 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2026-05-08T13:56:19.224+05:30  INFO 71329 --- [           main] c.i.r.RealestateBackendApplication       : Starting RealestateBackendApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 71329 (/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT/WEB-INF/classes started by gajendra-singh-bislawat in /home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/bin)
+2026-05-08T13:56:19.226+05:30  INFO 71329 --- [           main] c.i.r.RealestateBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-05-08T13:56:20.392+05:30  INFO 71329 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-08T13:56:20.569+05:30  INFO 71329 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 168 ms. Found 26 JPA repository interfaces.
+2026-05-08T13:56:20.952+05:30  INFO 71329 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1686 ms
+2026-05-08T13:56:21.374+05:30  INFO 71329 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-08T13:56:21.432+05:30  INFO 71329 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.6.Final
+2026-05-08T13:56:21.435+05:30  INFO 71329 --- [           main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
+2026-05-08T13:56:21.584+05:30  INFO 71329 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:56:21.705+05:30  INFO 71329 --- [           main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-08T13:56:21.732+05:30  INFO 71329 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-05-08T13:56:21.893+05:30  INFO 71329 --- [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17ef0c6d
+2026-05-08T13:56:21.896+05:30  INFO 71329 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-05-08T13:56:21.938+05:30  WARN 71329 --- [           main] org.hibernate.orm.deprecation            : HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2026-05-08T13:56:22.039+05:30  WARN 71329 --- [           main] o.h.b.model.internal.AnnotationBinder    : HHH000503: A class should not be annotated with both @Inheritance and @MappedSuperclass. @Inheritance will be ignored for: com.intela.realestatebackend.models.Image.
+2026-05-08T13:56:22.359+05:30  INFO 71329 --- [           main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
+2026-05-08T13:56:23.992+05:30  INFO 71329 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2026-05-08T13:56:24.780+05:30  INFO 71329 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-08T13:56:25.110+05:30  INFO 71329 --- [           main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+Customer users already exist, skipping seed.
+Dealer users already exist, skipping seed.
+Admin users already exist, skipping seed.
+2026-05-08T13:56:29.933+05:30  WARN 71329 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-08T13:56:30.136+05:30  INFO 71329 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@223077da, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1eba9233, org.springframework.security.web.context.SecurityContextHolderFilter@52154754, org.springframework.security.web.header.HeaderWriterFilter@c27ac23, org.springframework.web.filter.CorsFilter@7d1b2372, org.springframework.security.web.authentication.logout.LogoutFilter@6868766c, com.intela.realestatebackend.config.JwtAuthFilter@647856bc, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6386e131, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@67785180, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@acbadf3, org.springframework.security.web.session.SessionManagementFilter@4e4ae733, org.springframework.security.web.access.ExceptionTranslationFilter@4ff17275, org.springframework.security.web.access.intercept.AuthorizationFilter@500d8768]
+2026-05-08T13:56:30.917+05:30  INFO 71329 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2026-05-08T13:56:31.048+05:30  INFO 71329 --- [           main] c.i.r.RealestateBackendApplication       : Started RealestateBackendApplication in 12.181 seconds (process running for 14.779)
+Properties already exist, skipping seed.
+Admin user already exists, skipping seed.
+Customer user already exists, skipping seed.
+08-May-2026 13:56:31.155 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/realestate-backend-0.0.1-SNAPSHOT.war] has finished in [14,456] ms
+08-May-2026 13:56:31.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager]
+08-May-2026 13:56:31.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/manager] has finished in [67] ms
+08-May-2026 13:56:31.223 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs]
+08-May-2026 13:56:31.252 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/docs] has finished in [29] ms
+08-May-2026 13:56:31.254 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples]
+08-May-2026 13:56:31.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/examples] has finished in [148] ms
+08-May-2026 13:56:31.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager]
+08-May-2026 13:56:31.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/host-manager] has finished in [10] ms
+08-May-2026 13:56:31.412 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT]
+08-May-2026 13:56:31.419 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/gajendra-singh-bislawat/Desktop/spring-realestate-api-main/tomcat-server/apache-tomcat-10.1.34/webapps/ROOT] has finished in [7] ms
+08-May-2026 13:56:31.422 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8090"]
+08-May-2026 13:56:31.430 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [14769] milliseconds
